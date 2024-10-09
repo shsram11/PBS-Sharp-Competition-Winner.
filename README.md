@@ -1,1 +1,1 @@
-# PBS-Sharp-Competition-Winner.
+# PBS-Sharp-Competition-Winner
